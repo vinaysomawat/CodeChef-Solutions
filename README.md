@@ -1,19 +1,22 @@
 # CodeChef-Solutions
 
 #### Long Challanges
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| JAN |  |  |  |  |  |  |  | 
-| FEB |  |  |  |  |  |  |  | 
-| MAR |  |  |  |  |  |  |  | 
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 #### Cook Off
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| JAN |  |  |  |  |  |  |  | 
-| FEB |  |  |  |  |  |  |  | 
-| MAR |  |  |  |  |  |  |  | 
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 #### Lunch Time
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| JAN |  |  |  |  |  |  |  | 
-| FEB |  |  |  |  |  |  |  | 
-| MAR |  |  |  |  |  |  |  | 
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
