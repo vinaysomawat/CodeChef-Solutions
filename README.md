@@ -12,10 +12,9 @@
 #### Cook Off
 |               | 1             | 2             | 3             | 4             | 5             | 
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| OCT19         |               |               |               |               |               | 
-| DEC19         |               |               |               |               |               | 
-| JAN20         |               |               |               |               |               | 
-| FEB20         |               |               |               |               |               | 
+| OCT19         | [CKWLK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/10_19/CKWLK.cpp) | [MDL](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/10_19/MDL.cpp)  |               |               |               | 
+| JAN20         |   [EXAMCHT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/01_20/EXAMCHT.cpp)   | [CHFCHK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/01_20/CHFCHK.cpp)  |               |               |               | 
+| FEB20         |      [SLAB](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/02_20/SLAB.cpp)      |   [PSHOT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/02_20/PSHOT.cpp)            |               |               |               | 
 
 #### Lunch Time
 |               | 1             | 2             | 3             | 4             | 5             |
