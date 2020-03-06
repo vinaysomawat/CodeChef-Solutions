@@ -1,8 +1,7 @@
-/*
-
-Author:Vinay Somawat
-Email :vinaysomawat40@gmail.com
-
+/* Problem link: https://www.codechef.com/FEB20B/problems/NOCHANGE
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef February 2020 Long challange
 */
 
 #include<bits/stdc++.h>

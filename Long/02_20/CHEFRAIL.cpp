@@ -1,9 +1,7 @@
-/*
-
-Author:Vinay Somawat
-Email :vinaysomawat40@gmail.com
-Webpage: http://vinaysomawat.github.io/
-
+/* Problem link: https://www.codechef.com/FEB20B/problems/CHEFRAIL
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef February 2020 Long challange
 */
 
 
