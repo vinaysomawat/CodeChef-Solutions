@@ -1,5 +1,9 @@
-//Vinay Somawat
-//vinaysomawat40@gmail.com
+/* Problem link: https://www.codechef.com/COOK114B/problems/CHFCHK
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef January Cook Off Challange
+*/
+
 
 #include<bits/stdc++.h>
 #define ll long long int

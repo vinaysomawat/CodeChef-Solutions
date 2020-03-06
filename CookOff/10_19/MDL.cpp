@@ -1,4 +1,8 @@
-//vinaysomawat40@gmail.com
+/* Problem link: https://www.codechef.com/COOK111B/problems/MDL
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef October Cook Off Challange
+*/
 
 
 #include<bits/stdc++.h>

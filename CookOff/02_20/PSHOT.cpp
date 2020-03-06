@@ -1,7 +1,7 @@
-/*
-Author: Vinay Somawat
-Email: vinaysomawat@hotmail.com
-webpage: http://vinaysomawat.github.io/
+/* Problem link: https://www.codechef.com/COOK115B/problems/PSHOT
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef February Cook Off Challange
 */
 
 #include<bits/stdc++.h>
