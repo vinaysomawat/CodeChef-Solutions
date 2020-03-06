@@ -1,3 +1,9 @@
+/* Problem link: https://www.codechef.com/OCT19B/problems/MARM
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef October Long challange
+*/
+
 #include<bits/stdc++.h>
 #define ll long long 
 using namespace std;

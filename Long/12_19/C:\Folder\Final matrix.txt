@@ -1,6 +1,0 @@
-The number of positive numbers in the matrix: 21
-The number of negative numbers in the matrix: 4
-The number of zeros in the matrix: 0
-The minimum number in the matrix: -98
-The maximum number in the matrix: 98
-Arithmetic mean of the matrix: 24.92

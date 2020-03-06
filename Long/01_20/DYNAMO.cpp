@@ -1,5 +1,8 @@
-// Vinay Somawat NIT Warangal
-// webpage: https://vinaysomawat.github.io/
+/* Problem link: https://www.codechef.com/JAN20B/problems/DYNAMO
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef January 2020 Long challange
+*/
 
 #include<bits/stdc++.h>
 #define ll long long int

@@ -1,5 +1,8 @@
-//Vinay Somawat
-//vinaysomawat40@gmail.com
+/* Problem link: https://www.codechef.com/OCT19B/problems/SAKTAN
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef October Long challange
+*/
 
 #include <bits/stdc++.h>
 using namespace std;

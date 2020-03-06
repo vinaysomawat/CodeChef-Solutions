@@ -1,3 +1,10 @@
+/* Problem link: https://www.codechef.com/DEC19B/problems/SUBSPLAY
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef December Long challange
+*/
+
+
 #include <bits/stdc++.h>
 
 using namespace std;

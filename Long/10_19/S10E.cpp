@@ -1,3 +1,10 @@
+/* Problem link: https://www.codechef.com/OCT19B/problems/S10E
+    Author: Vinay Somawat
+    Webpage: http://vinaysomawat.github.io/
+    Contest: CodeChef October Long challange
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
