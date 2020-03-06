@@ -10,8 +10,8 @@
 | FEB20         | [SNUG_FIT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/02_20/SNUG_FIT.cpp)  | [CASH](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/02_20/CASH.cpp)      | [THEATRE](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/02_20/THEATRE_100pts.cpp)   | [NOCHANGE](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/02_20/NOCHANGE.cpp)  | [LONGCOOK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/02_20/LONGCOOK2.cpp)  | [CHEFRAIL](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/02_20/CHEFRAIL.cpp)  |
  
 #### Cook Off
-|               | 1             | 2             | 3             | 4             | 5             | 
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| OCT19         | [CKWLK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/10_19/CKWLK.cpp) | [MDL](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/10_19/MDL.cpp)  |               |               |               | 
-| JAN20         |   [EXAMCHT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/01_20/EXAMCHT.cpp)   | [CHFCHK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/01_20/CHFCHK.cpp)  |               |               |               | 
-| FEB20         |      [SLAB](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/02_20/SLAB.cpp)      |   [PSHOT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/02_20/PSHOT.cpp)            |               |               |               | 
+|               | 1             | 2             |
+| ------------- |:-------------:|:-------------:|
+| OCT19         | [CKWLK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/10_19/CKWLK.cpp) | [MDL](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/10_19/MDL.cpp)  |
+| JAN20         |   [EXAMCHT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/01_20/EXAMCHT.cpp)   | [CHFCHK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/01_20/CHFCHK.cpp)  |
+| FEB20         |      [SLAB](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/02_20/SLAB.cpp)      |   [PSHOT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/02_20/PSHOT.cpp)            |
