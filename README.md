@@ -1,8 +1,8 @@
 # CodeChef-Solutions
 
 #### Long Challanges
-|               | 1             | 2             | 3             | 4             | 5             | 6             |
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|               | 1             | 2             | 3             | 4             | 5             | 6             | 7             |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | AUG19         | [MSNSADM1](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/08_19/MSNSADM1.cpp)  | [DSTAPLS](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/08_19/DSTAPLS.cpp)       | [CHEFDIL](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/08_19/CHEFDIL.cpp) |               |               |               |
 | OCT19         | [S10E](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/10_19/S10E.cpp)      | [SAKTAN](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/10_19/SAKTAN.cpp)    | [MARM](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/10_19/MARM.cpp)      |  [MSV](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/10_19/MSV.cpp)      |               |               |
 | DEC19         | [WATSCORE](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/12_19/WATSCORE.cpp)  | [PLMU](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/12_19/PLMU.cpp)      | [SUBSPLAY](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/12_19/SUBSPLAY.cpp)  | [BINADD](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/12_19/BINADD.cpp)    | [CHFRAN](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/12_19/CHFRAN.cpp)    |               |
