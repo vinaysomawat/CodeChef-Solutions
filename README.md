@@ -11,8 +11,15 @@
 | MAR20         | [CHPINTU](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/03_20/CHPINTU.cpp)  | [ENGXOR](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/03_20/ENGXOR.cpp)      | [ADASHOP2](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/03_20/ADASHOP2.cpp)   | [LAZER](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/03_20/LAZER.cpp)  | [CHEFDAG](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/03_20/CHEFDAG.cpp)  |[MDSWIN2](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/03_20/MDSWIN2.cpp)  | [BREAK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Long/03_20/BREAK.cpp)  |
 
 #### Cook Off
-|               | 1             | 2             |
-| ------------- |:-------------:|:-------------:|
+|               | 1             | 2             | 3             |
+| ------------- |:-------------:|:-------------:|:-------------:|
 | OCT19         | [CKWLK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/10_19/CKWLK.cpp) | [MDL](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/10_19/MDL.cpp)  |
 | JAN20         |   [EXAMCHT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/01_20/EXAMCHT.cpp)   | [CHFCHK](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/01_20/CHFCHK.cpp)  |
 | FEB20         |      [SLAB](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/02_20/SLAB.cpp)      |   [PSHOT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/02_20/PSHOT.cpp)            |
+| MAR20         |      [GIFTSRC](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/03_20/GIFTSRC.cpp)      |   [CHCBOX](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/03_20/CHCBOX.cpp)            |[MYSARA](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/CookOff/03_20/MYSARA.cpp)            |
+
+
+#### Lunch Time
+|               | 1             | 2             | 3             |
+| ------------- |:-------------:|:-------------:|:-------------:|
+| MAR20         | [SWPDGT](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Lunchtime/03_20/SWPDGT.cpp) | [PRFXGD](https://github.com/vinaysomawat/CodeChef-Solutions/blob/master/Lunchtime/03_20/PRFXGD.cpp)  |
